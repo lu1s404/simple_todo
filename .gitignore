@@ -45,6 +45,6 @@ app.*.map.json
 /android/app/release
 
 # REMOVED PLATFORMS
-windows/
-macos/
-linux/
+/windows/
+/linux/
+/macos/
